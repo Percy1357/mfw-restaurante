@@ -157,3 +157,7 @@ nav.navbar {
     align-items: center;
     justify-content: center;
 }
+
+#our_story > .center_center {
+    margin: 4em;
+}
