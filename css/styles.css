@@ -161,3 +161,9 @@ nav.navbar {
 #our_story > .center_center {
     margin: 4em;
 }
+
+.required::after {
+    content: '*';
+    color: purple;
+    font-size: 2rem;
+}
